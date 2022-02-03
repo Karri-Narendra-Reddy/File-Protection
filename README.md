@@ -1,7 +1,7 @@
 # File-Protection
 Protect Your files or folder without using any type of 3rd party softwares
 
-steps:
+steps:\n
 1.Select a folder and go in.
 2.Right click on mouse, You displayed with a dialog box.
 3.Select "Text Document" option.
