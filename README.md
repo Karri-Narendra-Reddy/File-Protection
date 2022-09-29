@@ -124,7 +124,7 @@ NARENDRAHACKZ
   <a href="https://twitter.com/NarendraHackz">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="http://wa.me/919676783345">
+  <a href="http://wa.me/91">
     <img src="https://img.shields.io/badge/WhatsApp-Green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whats-App Badge"/>
   </a>
 </div>
